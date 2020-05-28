@@ -22,9 +22,9 @@
 
 * 这是新版界面，每个笔记的最近修改时间显示在了它标题的下方
 
-<img src="https://github.com/ShuWenhao/MiddleExp/blob/master/android期中截图/新版界面.jpg" width="500" />
+<img src="https://github.com/ShuWenhao/MiddleExp/blob/master/android期中截图/新版界面1.jpg" width="500" />
 
-* 我们要做的工作其实就一点——修改NoteList部分的投影（Projection）
+* 我们要做的工作其实就一点————修改NoteList部分的投影（Projection）
 
 <img src="https://github.com/ShuWenhao/MiddleExp/blob/master/android期中截图/修改时间投影1.jpg" width="500" />
 
